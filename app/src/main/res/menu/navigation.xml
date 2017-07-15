@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_book"
+        android:icon="@drawable/map_marker"
+        android:title="Book" />
+
+    <item
+        android:id="@+id/navigation_scheduled"
+        android:icon="@drawable/book"
+        android:title="Scheduled" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/history"
+        android:title="History" />
+
+</menu>
